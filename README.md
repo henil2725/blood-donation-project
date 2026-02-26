@@ -14,6 +14,13 @@ This repository now contains organization-grade Kotlin source files for an Andro
 - `app/src/main/AndroidManifest.xml`
 
 
+### Build system files
+- `settings.gradle.kts`
+- `build.gradle.kts`
+- `gradle.properties`
+- `app/build.gradle.kts`
+- `app/proguard-rules.pro`
+
 ### XML resources
 - `app/src/main/res/layout/activity_main.xml` (root XML file hosting `ComposeView`)
 - `app/src/main/res/values/strings.xml`
