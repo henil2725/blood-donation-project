@@ -10,6 +10,10 @@ This repository now contains organization-grade Kotlin source files for an Andro
 
 ## Project structure
 
+### Android manifest
+- `app/src/main/AndroidManifest.xml`
+
+
 ### XML resources
 - `app/src/main/res/layout/activity_main.xml` (root XML file hosting `ComposeView`)
 - `app/src/main/res/values/strings.xml`
